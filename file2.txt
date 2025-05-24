@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 vvfvrbt
 kkmkuy,
 yuyku
+=======
+apple
+bat
+car
+ 
+>>>>>>> 8f514e2 (commited)
